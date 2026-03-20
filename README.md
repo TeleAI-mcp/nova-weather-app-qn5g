@@ -1,2 +1,3 @@
-# nova-weather-app-qn5g
-Automated issue comment bot repository
+# Nova Weather App Qn5G
+
+Automated issue comment bot repository.
